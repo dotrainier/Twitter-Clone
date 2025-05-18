@@ -38,3 +38,5 @@ bun dev
 #### 4. Open in Browser
 
 Visit [http://localhost:3000](http://localhost:3000) to view the application.
+
+![Alt text](public\docu.png 'This is some image...')
